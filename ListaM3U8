@@ -1,0 +1,165 @@
+# JereTech-Tv-Oficial Lista Remota M3U Actualizable Si Un Canal Cae Dejenme Saber!
+
+#EXTM3U
+
+#EXTINF:-1, ---FACEBOOK---
+https://www.facebook.com/JereTech-Tv-1224355534330260/
+
+#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",+ Please Donate +
+https://www.paypal.me/JereHD
+
+#EXTINF:-1, Wapa PR
+http://live-14.viewer.dacast.com/i/dclive_1@176094/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1, Wapa 2 
+http://latino-webtv.ml/rvdurlst/8471/playlist.m3u8
+
+#EXTINF:-1, Telemundo PR
+http://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
+
+#EXTINF:-1, Univision PR
+http://latino-webtv.ml/rvdurlst/8474/playlist.m3u8
+
+#EXTINF:-1, Univision TDN Mexico
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FKVMwMb28mWWea2pxcc694dvV4TjytedDwuuYIXqigJZ1MX1JOR1pQmnJ5N5lQ3DRDJyNMCB8fwQ%3D%3D
+
+#EXTINF:-1, Disney Channel 
+http://edge201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+
+#EXTINF:-1, Disney XD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BnUuWqB6VaR9DMbEE8inDCyepEaLi3Q4sQO2kZLWFmOxdwOQMQ%2BmBo861nx6LqfJyTl51%2FfaRUDA%3D%3D
+
+#EXTINF:-1, Cartoon Network
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FJ2JDuNyFmaIY60oWMgRPE2ogVhV1dls7SAKVbvaq%2F3nXhtDVau8V3cH64Rn%2B0hr200BLcypKxkA%3D%3D
+
+#EXTINF:-1, Boomerang 
+http://we-you-iptv.tv:8000/live/2020/2020/7477.ts
+
+#EXTINF:-1, Discovery Kids
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Byme2edSPSzxD1tNj%2BwR%2By2BAACC1bcB3hdZTEm4tty%2BOIu%2FAKQou5fRJkMK9xiClB2%2Bo8DvRjVQ%3D%3D
+
+#EXTINF:-1, Disney Junior
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BTZ18I8HAlLc1UyU%2B4g7Nk%2FsVEMxdOgxfxCKrZSOsNblg552tCBu7KUZYpl2jMq8vr2ovrWWRmvA%3D%3D
+
+#EXTINF:-1, Nick HD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BvPzMm7byfLZ1OtWdaxKlc9IWt2mdk7bkyiGx7GIPXLPkqTLYL4%2FoFcaRSA572YcPjYVhjQCQoqg%3D%3D
+
+#EXTINF:-1, Nicktoons HD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B%2BxOVIytV4%2FfwypDtVL64QRfybeLR%2FD%2B8jD8gczGVhvLq7n%2B6xJBaQ5n3gDWtn52O8mZ7eWvqinA%3D%3D
+
+#EXTINF-1, Nick JR
+http://we-you-iptv.tv:8000/live/2020/2020/1721.ts
+
+#EXTINF:-1, Comedy Central
+http://edge204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+
+#EXTINF:-1, Baby Tv
+http://185.53.161.147:8888/play/a00n
+
+#EXTINF:-1, Cbeebies
+https://edge-1183-ch-gv.filmon.com/live/3191.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3dd21612b6fe15da26609bfbb37c0621a804fab4cd8f889a989ca832bd2347e516c6e0b7325a871b27a2ba7e38b0de52c9d8011ad0e983882fffc446c4118d0669f7199a96e64cead862df6baa54febebfb3dcddb4062424a1cdafeec7b23ce93a1dcc6054d8b285c349276914e3d290a3c868b97754d4d92
+
+#EXTINF:-1, Tooncast
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fr13ZaEt6Dbph%2FfAPeve0IV6%2FLXGVesLD2EJlpkm%2BUUv7vDJME9jrjH2VauASLt29XHXH4XW2iXg%3D%3D
+
+#EXTINF:-1, ESPN
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B5ZT6orIsOM48e8N9K3edr7%2F2iOqH6%2Fqv4rxr%2Bk3w3z2pv9ZIuEsSvkxHQiQiHkg1cS3dQbWkkHg%3D%3D
+
+#EXTINF:-1, ESPN 2
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18U%2FGKWEr3yqNFNJUd3shWe9D9FdIA%2BVPeqkbTAI5fgK2m3hYWAQj4P%2FXOUgCiKROYes3%2FtsweMUA%3D%3D
+
+#EXTINF:-1, ESPN 3
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FSDymLFIf8DjZCU7Kac0C0%2FoDWJe7s%2FkWoXNg2Lu9FnCoLQyRPHxAlvp6oCIvP9USJQ8MA7QKBUw%3D%3D
+
+#EXTINF:-1, ESPN + 
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18URguXb%2BJKPgOglYhLEbX0NIGKhfvBcFNtkEowV33kp70h%2BmlDMYHDZ%2BKUEcHxsSBf3U3UjCJ58g%3D%3D
+
+#EXTINF:-1, Bein-Ñ Sports 
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FwVjTiifvCbifhB6mCI%2FmQgyjHI4X4gfqC34dasqVJ6Aqqb%2F4wArR9U%2F4mw5wAQaDuzVEPIMDyrA%3D%3D
+
+#EXTINF:-1, Fox Sports
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BkajgOdRLzcC2OY9zj5otAHAi7RQ7qrsb08LEA4uNPWrJpxQ3hkTYHk%2B9JdJnAF1hAkpVzKNf74w%3D%3D
+
+#EXTINF:-1, Fox Sports 2
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18ERwrvP82iKdcrDOYKNram2RnMvi8X6jIJt%2FrDuz2yMIBK38oFx6A8kP4178yftkblpmNP4JaPyA%3D%3D
+
+#EXTINF:-1, HBO
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18yqO5wlgwgR7KqcX0%2FrKxOd6PWm8pVQsjq%2Fvc5ks3ECh9J%2FhDW%2FipbAEf1f3bT%2B8cP4LebL1Ud1g%3D%3D
+
+#EXTINF:-1, HBO Plus
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2Fy3%2FWwPT2oA9DaaWMSdGe7crAvr%2B2ULC6bBMOnSSAdqmazPhkFGJ8XyIBmUHZaKmeFvYPtcQ2Dyw%3D%3D
+
+#EXTINF:-1, TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+
+#EXTINF:-1, TNT OPC. 2
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BuCvU1T0GHX5HKgRME%2FsbwHAm7t36LxISg7Tu2cqO%2B8LTwcArhlbhOx%2Bq4b5ttYv3%2BUPPgWNBDSg%3D%3D
+
+#EXTINF:-1, TNT HD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BLk9Df57E5F6%2BTuUxc%2FkBHUzBElKt8LmpgBs3l1pdnLyJzMsAttuqAYJ%2FaxWA5bbekC1MKttQ4iw%3D%3D
+
+#EXTINF:-1, Cinemax
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX188v1I6ShN0HrBsTIFIPL7xB8ETaCwpx1J89Px45L%2Fq%2FbhCL5qtKVCvoivuBffMCY9%2FsfMOnrVRPg%3D%3D
+
+#EXTINF:-1, ABC
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+
+#EXTINF:-1, CBS
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+
+#EXTINF:-1, NBC
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+
+#EXTINF:-1, SyFy
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B57h%2B9egnrssCpi8v8z6AJWwQi4OKHNdgwb331zJzar6ZQv9dJZKIl90Vct7z9CH4Q8cqaq%2BQcLA%3D%3D
+
+#EXTINF:-1, Spike HD
+http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
+
+#EXTINF:-1, MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1, NBA Tv
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1, WWWE Network
+http://93.174.93.84:8081/live/wwe-hq/chunks.m3u8?nimblesessionid=7524984&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDE3IDY6MTk6MzYgUE0maGFzaF92YWx1ZT00ZlhqdmtuYSt5SUt2VDZURkVlWHVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTEwOC4xNjIuMjEwLjIxNiZzdHJtX2xlbj0xMQ==
+
+#EXTINF:-1, Olympic Channel
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1, Showtime HD
+http://31.204.155.156:8080/edge/11786/tracks-v1a1/index.m3u8?token=17.18.1142.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.af3860659b0ec3cd1f281d2f33ea02a7
+
+#EXTINF:-1, Animal Planet 
+http://we-you-iptv.tv:8000/live/2020/2020/2261.ts
+
+#EXTINF:-1, Fox 
+http://we-you-iptv.tv:8000/live/2020/2020/2153.ts
+
+#EXTINF:-1, Sony Tv
+http://we-you-iptv.tv:8000/live/2020/2020/7507.ts
+
+#EXTINF:-1, UFC NETWORK
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BT8s2mnAeM9GwHjG8ckYfBsD34luVbEaImszTwNWMKXhmI%2BPOHEJxKa7TNSWTjK9jSolUU3ru7VA%3D%3D
+
+#EXTINF:-1, Discovery HH
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fpt08hdT%2BBBT6SR9jfDJb7R2j2mtXIWdGAs1goozdyFzPbuCL37IVUB%2BVTEDSM1Bkcc1OfyrGK2A%3D%3D
+
+#EXTINF:-1, TLC
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B5d1p7JxLAGpza8yyJmFCRtqmvTsEE13fQLpCnDmDBzk00LxALk7G0tK5Ue%2FN18hQWt3nBAF1xHQ%3D%3D
+
+#EXTINF:-1, Mega TV PR
+http://latino-webtv.ml/rvdurlst/13508/playlist.m3u8
+
+#EXTINF:-1, Az Cinema
+http://latinchannel.tv:8000/live/demo2501/0SD5PPl45O/74.ts
+
+#EXTINF:-1, DPeliculas
+rtmp://50.7.28.114/flash/23788?MTQ5NTUyMTEwMjtlNTBmNDZmNjc0NTZlNTg0ODViNjU3MjQ2Nzg2M2FkYg==
+
+#EXTINF:-1, MonteCarlo Tv
+http://live.cdn.antel.net.uy/auth_0_7xjgljta,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfN3hqZ2xqdGElMkZobHMlMkYlMkEmZXhwaXJ5PTE0OTU1ODYyMzMmcmFuZG9tPUVsUFVpU3ZPS1kmYy1pcD0yNC41NS4xMDkuMTQ2LGZlNTk3MmQ5MjVjOGQ3ZmExMTNhYTZmMGQxYjA4NjYyMTYzMTQyZjFjYmE5ZmM2NDlmZDU3ZTM1NWQ4MzYzODk=/hls/var400400/playlist.m3u8
+
+#EXTINF:-1, Movistar Estrenos
+http://edge1.telesport.pw/live/plusestrenos/index.m3u8
